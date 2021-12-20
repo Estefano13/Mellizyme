@@ -14,3 +14,14 @@ In my machine, each scrip took this time to run(from terminal):
 - Task_2: ~4 seconds
 - Task_3: ~3 minutes
 - Task_4: >1 second
+
+List of libraries used:
+
+- pandas
+- numpy
+- re
+- json
+- rapidfuzz
+- csv
+- itertools
+- collections
